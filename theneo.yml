@@ -1,6 +1,6 @@
 openapi: 3.0.0
 servers:
-  - description: Theneo Sample APIs
+  - description: Theneo Sample API
     url: https://app.theneo.io
 info:
   description: |
