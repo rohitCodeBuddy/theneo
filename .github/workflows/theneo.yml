@@ -1,8 +1,5 @@
 name: Update documention
-on:
-  pull_request:
-    branches:
-      - main
+on: [push]
 jobs:
   update-doc:
     name: update theneo doc
